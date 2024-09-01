@@ -36,7 +36,7 @@ Dynamical systems are mathematical models used to describe the time-dependent be
 
 Below is an example of a phase space plot for the Lorenz system:
 
-![Lorenz System Phase Space](Figure 1.2.png)
+<img src="Figure 1.2 .png" alt="Lorenz System Phase Space" width="500"/>
 
 
 

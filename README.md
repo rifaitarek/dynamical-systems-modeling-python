@@ -31,7 +31,7 @@ Dynamical systems are mathematical models used to describe the time-dependent be
    - SIR Model (Susceptible-Infected-Recovered)
    - SEIR Model (Susceptible-Exposed-Infected-Recovered)
 
-![Alt text](images/Figure 1.1.png)
+![Figure 1 1](https://github.com/user-attachments/assets/f6c12d74-6cdf-4c14-bf21-0c19fdad4692)
 
 ## Prerequisites
 

@@ -32,6 +32,13 @@ Dynamical systems are mathematical models used to describe the time-dependent be
    - SEIR Model (Susceptible-Exposed-Infected-Recovered)
 
 
+## Example Plots
+
+Below is an example of a phase space plot for the Lorenz system:
+
+![Lorenz System Phase Space](Figure 2.1.png)
+
+
 
 ## Prerequisites
 
